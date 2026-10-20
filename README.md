@@ -48,4 +48,4 @@ See [Lab Architecture](docs/lab-architecture.md) for details about the lab setup
 
 This personal lab helps me develop practical IT Operations skills through hands-on troubleshooting and monitoring exercises.
 
-**Note:** This is a personal learning environment, not a production enterprise system.\
+**Note:** This is a personal learning environment, not a production enterprise system.
